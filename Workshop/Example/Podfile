@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '10.0'
+
+use_frameworks!
+
+target 'Workshop_Example' do
+  pod 'Workshop', :path => '../'
+  pod 'ReactiveSwift'
+
+  target 'Workshop_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

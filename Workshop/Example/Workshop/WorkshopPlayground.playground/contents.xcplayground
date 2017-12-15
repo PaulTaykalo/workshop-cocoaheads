@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='1.1. Simple Signals'/>
+        <page name='1.2. Combining Signals'/>
+        <page name='1.3. Combining Signals What Type?'/>
+        <page name='1.4. Combinings Signals What Error?'/>
+        <page name='1.5. Combining Signals Final Destination'/>
+        <page name='2.1 Reactive'/>
+        <page name='2.2.Reactive (Flow)'/>
+        <page name='2.3.Reactive (Action Loading)'/>
+        <page name='2.4. Reactive( Progress)'/>
+        <page name='2.5. Reactive (Progress #2)'/>
+        <page name='2.6. Reactive Bindings'/>
+        <page name='2.7. Bind All the things'/>
+        <page name='3.0. Funny chaining'/>
+        <page name='4.0. Signal Dependencies'/>
+    </pages>
+</playground>

@@ -1,0 +1,30 @@
+{
+  "name": "Workshop",
+  "version": "0.1.0",
+  "summary": "A short description of Workshop.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PaulTaykalo/Workshop",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PaulTaykalo": "tt.kilew@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/PaulTaykalo/Workshop.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Workshop/Classes/**/*",
+  "dependencies": {
+    "ReactiveSwift": [
+      "~> 3.0.0"
+    ],
+    "ReactiveCocoa": [
+      "~> 7.0.1"
+    ]
+  }
+}

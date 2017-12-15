@@ -1,0 +1,6 @@
+framework module Workshop {
+  umbrella header "Workshop-umbrella.h"
+
+  export *
+  module * { export * }
+}
